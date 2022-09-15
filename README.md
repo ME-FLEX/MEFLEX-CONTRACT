@@ -1,1 +1,19 @@
 # MEFLEX-CONTRACT
+
+#### TOKEN NAME
+> MEFLEX
+
+#### SYMBOL
+> MEF
+
+#### TOTAL SUPPLY
+> 1,000,000,000 MEF
+
+#### DECIMALS
+> 18
+
+#### CONTRACT ADDRESS
+> 0xD3daa40eDaf298aC5C5481dc14aE4D45190B185B
+
+#### BSCSCAN
+> <https://bscscan.com/token/0xd3daa40edaf298ac5c5481dc14ae4d45190b185b>
